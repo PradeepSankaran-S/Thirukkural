@@ -1,0 +1,800 @@
+[
+  {
+    "athigaram_no": "1",
+    "name": "கடவுள் வாழ்த்து",
+    "translation": "The Praise of God",
+    "transliteration": "Katavul Vaazhththu"
+  },
+  {
+    "athigaram_no": "2",
+    "name": "வான்சிறப்பு",
+    "translation": "The Blessing of Rain",
+    "transliteration": "Vaansirappu"
+  },
+  {
+    "athigaram_no": "3",
+    "name": "நீத்தார் பெருமை",
+    "translation": "The Greatness of Ascetics",
+    "transliteration": "Neeththaar Perumai"
+  },
+  {
+    "athigaram_no": "4",
+    "name": "அறன் வலியுறுத்தல்",
+    "translation": "Assertion of the Strength of Virtue",
+    "transliteration": "Aran Valiyuruththal"
+  },
+  {
+    "athigaram_no": "5",
+    "name": "இல்வாழ்க்கை",
+    "translation": "Domestic Life",
+    "transliteration": "Ilvaazhkkai"
+  },
+  {
+    "athigaram_no": "6",
+    "name": "வாழ்க்கைத் துணைநலம்",
+    "translation": "The Worth of a Wife",
+    "transliteration": "Vaazhkkaith Thunainalam"
+  },
+  {
+    "athigaram_no": "7",
+    "name": "மக்கட்பேறு / புதல்வரைப் பெறுதல்",
+    "translation": "The Wealth of Children",
+    "transliteration": "Pudhalvaraip Perudhal"
+  },
+  {
+    "athigaram_no": "8",
+    "name": "அன்புடைமை",
+    "translation": "The Possession of Love",
+    "transliteration": "Anpudaimai"
+  },
+  {
+    "athigaram_no": "9",
+    "name": "விருந்தோம்பல்",
+    "translation": "Hospitality",
+    "transliteration": "Virundhompal"
+  },
+  {
+    "athigaram_no": "10",
+    "name": "இனியவைகூறல்",
+    "translation": "The Utterance of Pleasant Words",
+    "transliteration": "Iniyavaikooral"
+  },
+  {
+    "athigaram_no": "11",
+    "name": "செய்ந்நன்றி அறிதல்",
+    "translation": "Gratitude",
+    "transliteration": "Seynnandri Aridhal"
+  },
+  {
+    "athigaram_no": "12",
+    "name": "நடுவு நிலைமை",
+    "translation": "Impartiality",
+    "transliteration": "Natuvu Nilaimai"
+  },
+  {
+    "athigaram_no": "13",
+    "name": "அடக்கமுடைமை",
+    "translation": "The Possession of Self-restraint",
+    "transliteration": "Adakkamudaimai"
+  },
+  {
+    "athigaram_no": "14",
+    "name": " ஒழுக்கமுடைமை",
+    "translation": "The Possession of Decorum",
+    "transliteration": "Ozhukkamudaimai"
+  },
+  {
+    "athigaram_no": "15",
+    "name": "பிறனில் விழையாமை",
+    "translation": "Not coveting another's Wife",
+    "transliteration": "Piranil Vizhaiyaamai"
+  },
+  {
+    "athigaram_no": "16",
+    "name": "பொறையுடைமை",
+    "translation": "The Possession of Patience, Forbearance",
+    "transliteration": "Poraiyudaimai"
+  },
+  {
+    "athigaram_no": "17",
+    "name": "அழுக்காறாமை",
+    "translation": "Not Envying",
+    "transliteration": "Azhukkaaraamai"
+  },
+  {
+    "athigaram_no": "18",
+    "name": "வெஃகாமை",
+    "translation": "Not Coveting",
+    "transliteration": "Veqkaamai"
+  },
+  {
+    "athigaram_no": "19",
+    "name": "புறங்கூறாமை",
+    "translation": "Not Backbiting",
+    "transliteration": "Purangooraamai"
+  },
+  {
+    "athigaram_no": "20",
+    "name": "பயனில சொல்லாமை",
+    "translation": "Against Vain Speaking",
+    "transliteration": "Payanila Sollaamai"
+  },
+  {
+    "athigaram_no": "21",
+    "name": "தீவினையச்சம்",
+    "translation": "Dread of Evil Deeds",
+    "transliteration": "Theevinaiyachcham"
+  },
+  {
+    "athigaram_no": "22",
+    "name": "ஒப்புரவறிதல்",
+    "translation": "Duty to Society",
+    "transliteration": "Oppuravaridhal"
+  },
+  {
+    "athigaram_no": "23",
+    "name": "ஈகை",
+    "translation": "Giving",
+    "transliteration": "Eekai"
+  },
+  {
+    "athigaram_no": "24",
+    "name": "புகழ்",
+    "translation": "Renown",
+    "transliteration": "Pukazh"
+  },
+  {
+    "athigaram_no": "25",
+    "name": "அருளுடைமை",
+    "translation": "Compassion",
+    "transliteration": "Aruludaimai"
+  },
+  {
+    "athigaram_no": "26",
+    "name": "புலான்மறுத்தல்",
+    "translation": "Abstinence from Flesh",
+    "transliteration": "Pulaanmaruththal"
+  },
+  {
+    "athigaram_no": "27",
+    "name": "தவம்",
+    "translation": "Penance",
+    "transliteration": "Thavam"
+  },
+  {
+    "athigaram_no": "28",
+    "name": "கூடாவொழுக்கம்",
+    "translation": "Imposture",
+    "transliteration": "Koodaavozhukkam"
+  },
+  {
+    "athigaram_no": "29",
+    "name": "கள்ளாமை",
+    "translation": "The Absence of Fraud",
+    "transliteration": "Kallaamai"
+  },
+  {
+    "athigaram_no": "30",
+    "name": "வாய்மை",
+    "translation": "Veracity",
+    "transliteration": "Vaaimai"
+  },
+  {
+    "athigaram_no": "31",
+    "name": "வெகுளாமை",
+    "translation": "Restraining Anger",
+    "transliteration": "Vekulaamai"
+  },
+  {
+    "athigaram_no": "32",
+    "name": "இன்னாசெய்யாமை",
+    "translation": "Not doing Evil",
+    "transliteration": "Innaaseyyaamai"
+  },
+  {
+    "athigaram_no": "33",
+    "name": "கொல்லாமை",
+    "translation": "Not killing",
+    "transliteration": "Kollaamai"
+  },
+  {
+    "athigaram_no": "34",
+    "name": "நிலையாமை",
+    "translation": "Instability",
+    "transliteration": "Nilaiyaamai"
+  },
+  {
+    "athigaram_no": "35",
+    "name": "துறவு",
+    "translation": "Renunciation",
+    "transliteration": "Thuravu"
+  },
+  {
+    "athigaram_no": "36",
+    "name": "மெய்யுணர்தல்",
+    "translation": "Truth-Conciousness",
+    "transliteration": "Meyyunardhal"
+  },
+  {
+    "athigaram_no": "37",
+    "name": "அவாவறுத்தல்",
+    "translation": "Curbing of Desire",
+    "transliteration": "Avaavaruththal"
+  },
+  {
+    "athigaram_no": "38",
+    "name": "ஊழ்",
+    "translation": "Fate",
+    "transliteration": "Oozh"
+  },
+  {
+    "athigaram_no": 39,
+    "name": "இறைமாட்சி",
+    "translation": "The Greatness of a King",
+    "transliteration": "Iraimaatchi"
+  },
+  {
+    "athigaram_no": 40,
+    "name": "கல்வி",
+    "translation": "Learning",
+    "transliteration": "Kalvi"
+  },
+  {
+    "athigaram_no": 41,
+    "name": "கல்லாமை",
+    "translation": "Ignorance",
+    "transliteration": "Kallaamai"
+  },
+  {
+    "athigaram_no": 42,
+    "name": "கேள்வி",
+    "translation": "Hearing",
+    "transliteration": "Kaelvi"
+  },
+  {
+    "athigaram_no": 43,
+    "name": "அறிவுடைமை",
+    "translation": "The Possession of Knowledge",
+    "transliteration": "Arivudaimai"
+  },
+  {
+    "athigaram_no": 44,
+    "name": "குற்றங்கடிதல்",
+    "translation": "The Correction of Faults",
+    "transliteration": "Kutrangatidhal"
+  },
+  {
+    "athigaram_no": 45,
+    "name": "பெரியாரைத் துணைக்கோடல்",
+    "translation": "Seeking the Aid of Great Men",
+    "transliteration": "Periyaaraith Thunaikkotal"
+  },
+  {
+    "athigaram_no": 46,
+    "name": "சிற்றினஞ்சேராமை",
+    "translation": "Avoiding mean Associations",
+    "transliteration": "Sitrinanjeraamai"
+  },
+  {
+    "athigaram_no": 47,
+    "name": "தெரிந்துசெயல்வகை",
+    "translation": "Acting after due Consideration",
+    "transliteration": "Therindhuseyalvakai"
+  },
+  {
+    "athigaram_no": 48,
+    "name": "வலியறிதல்",
+    "translation": "The Knowledge of Power",
+    "transliteration": "Valiyaridhal"
+  },
+  {
+    "athigaram_no": 49,
+    "name": "காலமறிதல்",
+    "translation": "Knowing the fitting Time",
+    "transliteration": "Kaalamaridhal"
+  },
+  {
+    "athigaram_no": 50,
+    "name": "இடனறிதல்",
+    "translation": "Knowing the Place",
+    "transliteration": "Idanaridhal"
+  },
+  {
+    "athigaram_no": 51,
+    "name": "தெரிந்துதெளிதல்",
+    "translation": "Selection and Confidence",
+    "transliteration": "Therindhudhelidhal"
+  },
+  {
+    "athigaram_no": 52,
+    "name": "தெரிந்துவினையாடல்",
+    "translation": "Selection and Employment",
+    "transliteration": "Therindhuvinaiyaatal"
+  },
+  {
+    "athigaram_no": 53,
+    "name": "சுற்றந்தழால்",
+    "translation": "Cherishing Kinsmen",
+    "transliteration": "Sutrandhazhaal"
+  },
+  {
+    "athigaram_no": 54,
+    "name": "பொச்சாவாமை",
+    "translation": "Unforgetfulness",
+    "transliteration": "Pochchaavaamai"
+  },
+  {
+    "athigaram_no": 55,
+    "name": "செங்கோன்மை",
+    "translation": "The Right Sceptre",
+    "transliteration": "Sengonmai"
+  },
+  {
+    "athigaram_no": 56,
+    "name": "கொடுங்கோன்மை",
+    "translation": "The Cruel Sceptre",
+    "transliteration": "Kotungonmai"
+  },
+  {
+    "athigaram_no": 57,
+    "name": "வெருவந்தசெய்யாமை",
+    "translation": "Absence of Terrorism",
+    "transliteration": "Veruvandhaseyyaamai"
+  },
+  {
+    "athigaram_no": 58,
+    "name": "கண்ணோட்டம்",
+    "translation": "Benignity",
+    "transliteration": "Kannottam"
+  },
+  {
+    "athigaram_no": 59,
+    "name": "ஒற்றாடல்",
+    "translation": "Detectives",
+    "transliteration": "Otraadal"
+  },
+  {
+    "athigaram_no": 60,
+    "name": "ஊக்கமுடைமை",
+    "translation": "Energy",
+    "transliteration": "Ookkamudaimai"
+  },
+  {
+    "athigaram_no": 61,
+    "name": "மடியின்மை",
+    "translation": "Unsluggishness",
+    "transliteration": "Matiyinmai"
+  },
+  {
+    "athigaram_no": 62,
+    "name": "ஆள்வினையுடைமை",
+    "translation": "Manly Effort",
+    "transliteration": "Aalvinaiyudaimai"
+  },
+  {
+    "athigaram_no": 63,
+    "name": "இடுக்கணழியாமை",
+    "translation": "Hopefulness in Trouble",
+    "transliteration": "Idukkan Azhiyaamai"
+  },
+  {
+    "athigaram_no": 64,
+    "name": "அமைச்சு",
+    "translation": "The Office of Minister of state",
+    "transliteration": "Amaichchu"
+  },
+  {
+    "athigaram_no": 65,
+    "name": "சொல்வன்மை",
+    "translation": "Power of Speech",
+    "transliteration": "Solvanmai"
+  },
+  {
+    "athigaram_no": 66,
+    "name": "வினைத்தூய்மை",
+    "translation": "Purity in Action",
+    "transliteration": "Vinaiththooimai"
+  },
+  {
+    "athigaram_no": 67,
+    "name": "வினைத்திட்பம்",
+    "translation": "Power in Action",
+    "transliteration": "Vinaiththitpam"
+  },
+  {
+    "athigaram_no": 68,
+    "name": "வினைசெயல்வகை",
+    "translation": "Modes of Action",
+    "transliteration": "Vinaiseyalvakai"
+  },
+  {
+    "athigaram_no": 69,
+    "name": "தூது",
+    "translation": "The Envoy",
+    "transliteration": "Thoodhu"
+  },
+  {
+    "athigaram_no": 70,
+    "name": "மன்னரைச் சேர்ந்தொழுதல்",
+    "translation": "Conduct in the Presence of the King",
+    "transliteration": "Mannaraich Cherndhozhudhal"
+  },
+  {
+    "athigaram_no": 71,
+    "name": "குறிப்பறிதல்",
+    "translation": "The Knowledge of Indications",
+    "transliteration": "Kuripparidhal"
+  },
+  {
+    "athigaram_no": 72,
+    "name": "அவையறிதல்",
+    "translation": "The Knowledge of the Council Chamber",
+    "transliteration": "Avaiyaridhal"
+  },
+  {
+    "athigaram_no": 73,
+    "name": "அவையஞ்சாமை",
+    "translation": "Not to dread the Council",
+    "transliteration": "Avaiyanjaamai"
+  },
+  {
+    "athigaram_no": 74,
+    "name": "நாடு ",
+    "translation": "The Land",
+    "transliteration": "Naadu"
+  },
+  {
+    "athigaram_no": 75,
+    "name": "அரண்",
+    "translation": "The Fortification",
+    "transliteration": "Aran"
+  },
+  {
+    "athigaram_no": 76,
+    "name": "பொருள்செயல்வகை",
+    "translation": "Way of Accumulating Wealth",
+    "transliteration": "Porulseyalvakai"
+  },
+  {
+    "athigaram_no": 77,
+    "name": "படைமாட்சி",
+    "translation": "The Excellence of an Army",
+    "transliteration": "Padaimaatchi"
+  },
+  {
+    "athigaram_no": 78,
+    "name": "படைச்செருக்கு",
+    "translation": "Military Spirit",
+    "transliteration": "Pataichcherukku"
+  },
+  {
+    "athigaram_no": 79,
+    "name": "நட்பு ",
+    "translation": "Friendship",
+    "transliteration": "Natpu"
+  },
+  {
+    "athigaram_no": 80,
+    "name": "நட்பாராய்தல்",
+    "translation": "Investigation in forming Friendships",
+    "transliteration": "Natpaaraaidhal"
+  },
+  {
+    "athigaram_no": 81,
+    "name": "பழைமை",
+    "translation": "Familiarity",
+    "transliteration": "Pazhaimai"
+  },
+  {
+    "athigaram_no": 82,
+    "name": "தீ நட்பு",
+    "translation": "Evil Friendship",
+    "transliteration": "Thee Natpu"
+  },
+  {
+    "athigaram_no": 83,
+    "name": "கூடாநட்பு",
+    "translation": "Unreal Friendship",
+    "transliteration": "Kootaanatpu"
+  },
+  {
+    "athigaram_no": 84,
+    "name": "பேதைமை",
+    "translation": "Folly",
+    "transliteration": "Paedhaimai"
+  },
+  {
+    "athigaram_no": 85,
+    "name": "புல்லறிவாண்மை",
+    "translation": "Ignorance",
+    "transliteration": "Pullarivaanmai"
+  },
+  {
+    "athigaram_no": 86,
+    "name": "இகல்",
+    "translation": "Hostility",
+    "transliteration": "Ikal"
+  },
+  {
+    "athigaram_no": 87,
+    "name": "பகைமாட்சி",
+    "translation": "The Might of Hatred",
+    "transliteration": "Pakaimaatchi"
+  },
+  {
+    "athigaram_no": 88,
+    "name": "பகைத்திறந்தெரிதல்",
+    "translation": "Knowing the Quality of Hate",
+    "transliteration": "Pakaiththirandheridhal"
+  },
+  {
+    "athigaram_no": 89,
+    "name": "உட்பகை",
+    "translation": "Enmity within",
+    "transliteration": "Utpakai"
+  },
+  {
+    "athigaram_no": 90,
+    "name": "பெரியாரைப் பிழையாமை",
+    "translation": "Not Offending the Great",
+    "transliteration": "Periyaaraip Pizhaiyaamai"
+  },
+  {
+    "athigaram_no": 91,
+    "name": "பெண்வழிச்சேறல்",
+    "translation": "Being led by Women",
+    "transliteration": "Penvazhichcheral"
+  },
+  {
+    "athigaram_no": 92,
+    "name": "வரைவின்மகளிர்",
+    "translation": "Wanton Women",
+    "transliteration": "Varaivinmakalir"
+  },
+  {
+    "athigaram_no": 93,
+    "name": "கள்ளுண்ணாமை",
+    "translation": "Not Drinking Palm-Wine",
+    "transliteration": "Kallunnaamai"
+  },
+  {
+    "athigaram_no": 94,
+    "name": "சூது",
+    "translation": "Gambling",
+    "transliteration": "Soodhu"
+  },
+  {
+    "athigaram_no": 95,
+    "name": "மருந்து",
+    "translation": "Medicine",
+    "transliteration": "Marundhu"
+  },
+  {
+    "athigaram_no": 96,
+    "name": "குடிமை",
+    "translation": "Nobility",
+    "transliteration": "Kutimai"
+  },
+  {
+    "athigaram_no": 97,
+    "name": "மானம்",
+    "translation": "Honour",
+    "transliteration": "Maanam"
+  },
+  {
+    "athigaram_no": 98,
+    "name": "பெருமை",
+    "translation": "Greatness",
+    "transliteration": "Perumai"
+  },
+  {
+    "athigaram_no": 99,
+    "name": "சான்றாண்மை",
+    "translation": "Perfectness",
+    "transliteration": "Saandraanmai"
+  },
+  {
+    "athigaram_no": 100,
+    "name": "பண்புடைமை",
+    "translation": "Courtesy",
+    "transliteration": "Panpudaimai"
+  },
+  {
+    "athigaram_no": 101,
+    "name": "நன்றியில்செல்வம்",
+    "translation": "Wealth without Benefaction",
+    "transliteration": "Nandriyilselvam"
+  },
+  {
+    "athigaram_no": 102,
+    "name": "நாணுடைமை",
+    "translation": "Shame",
+    "transliteration": "Naanudaimai"
+  },
+  {
+    "athigaram_no": 103,
+    "name": "குடிசெயல்வகை",
+    "translation": "The Way of Maintaining the Family",
+    "transliteration": "Kutiseyalvakai"
+  },
+  {
+    "athigaram_no": 104,
+    "name": "உழவு",
+    "translation": "Farming",
+    "transliteration": "Uzhavu"
+  },
+  {
+    "athigaram_no": 105,
+    "name": "நல்குரவு",
+    "translation": "Poverty",
+    "transliteration": "Nalkuravu"
+  },
+  {
+    "athigaram_no": 106,
+    "name": "இரவு",
+    "translation": "Mendicancy",
+    "transliteration": "Iravu"
+  },
+  {
+    "athigaram_no": 107,
+    "name": "இரவச்சம்",
+    "translation": "The Dread of Mendicancy",
+    "transliteration": "Iravachcham"
+  },
+  {
+    "athigaram_no": 108,
+    "name": "கயமை",
+    "translation": "Baseness",
+    "transliteration": "Kayamai"
+  },
+  {
+    "athigaram_no": 109,
+    "name": "தகையணங்குறுத்தல்",
+    "translation": "The Pre-marital love",
+    "transliteration": "Thakaiyananguruththal"
+  },
+  {
+    "athigaram_no": 110,
+    "name": "குறிப்பறிதல்",
+    "translation": "Recognition of the Signs",
+    "transliteration": "Kuripparidhal"
+  },
+  {
+    "athigaram_no": 111,
+    "name": "புணர்ச்சிமகிழ்தல்",
+    "translation": "Rejoicing in the Embrace",
+    "transliteration": "Punarchchimakizhdhal"
+  },
+  {
+    "athigaram_no": 112,
+    "name": "நலம்புனைந்துரைத்தல்",
+    "translation": "The Praise of her Beauty",
+    "transliteration": "Nalampunaindhuraiththal"
+  },
+  {
+    "athigaram_no": 113,
+    "name": "காதற்சிறப்புரைத்தல்",
+    "translation": "Declaration of Love's special Excellence",
+    "transliteration": "Kaadharsirappuraiththal"
+  },
+  {
+    "athigaram_no": 114,
+    "name": "நாணுத்துறவுரைத்தல்",
+    "translation": "The Abandonment of Reserve",
+    "transliteration": "Naanuththuravuraiththal"
+  },
+  {
+    "athigaram_no": 115,
+    "name": "அலரறிவுறுத்தல்",
+    "translation": "The Announcement of the Rumour",
+    "transliteration": "Alararivuruththal"
+  },
+  {
+    "athigaram_no": 116,
+    "name": "பிரிவாற்றாமை",
+    "translation": "Separation unendurable",
+    "transliteration": "Pirivaatraamai"
+  },
+  {
+    "athigaram_no": 117,
+    "name": "படர்மெலிந்திரங்கல்",
+    "translation": "Complainings",
+    "transliteration": "Patarmelindhirangal"
+  },
+  {
+    "athigaram_no": 118,
+    "name": "கண்விதுப்பழிதல்",
+    "translation": "Eyes consumed with Grief",
+    "transliteration": "Kanvidhuppazhidhal"
+  },
+  {
+    "athigaram_no": 119,
+    "name": "பசப்புறுபருவரல்",
+    "translation": "The Pallid Hue",
+    "transliteration": "Pasapparuparuvaral"
+  },
+  {
+    "athigaram_no": 120,
+    "name": "தனிப்படர்மிகுதி",
+    "translation": "The Solitary Anguish",
+    "transliteration": "Thanippatarmikudhi"
+  },
+  {
+    "athigaram_no": 121,
+    "name": "நினைந்தவர்புலம்பல்",
+    "translation": "Sad Memories",
+    "transliteration": "Ninaindhavarpulampal"
+  },
+  {
+    "athigaram_no": 122,
+    "name": "கனவுநிலையுரைத்தல்",
+    "translation": "The Visions of the Night",
+    "transliteration": "Kanavunilaiyuraiththal"
+  },
+  {
+    "athigaram_no": 123,
+    "name": "பொழுதுகண்டிரங்கல்",
+    "translation": "Lamentations at Eventide",
+    "transliteration": "Pozhudhukantirangal"
+  },
+  {
+    "athigaram_no": 124,
+    "name": "உறுப்புநலனழிதல்",
+    "translation": "Wasting Away",
+    "transliteration": "Uruppunalanazhidhal"
+  },
+  {
+    "athigaram_no": 125,
+    "name": "நெஞ்சொடுகிளத்தல்",
+    "translation": "Soliloquy",
+    "transliteration": "Nenjotukilaththal"
+  },
+  {
+    "athigaram_no": 126,
+    "name": "நிறையழிதல்",
+    "translation": "Reserve Overcome",
+    "transliteration": "Niraiyazhidhal"
+  },
+  {
+    "athigaram_no": 127,
+    "name": "அவர்வயின்விதும்பல்",
+    "translation": "Mutual Desire",
+    "transliteration": "Avarvayinvidhumpal"
+  },
+  {
+    "athigaram_no": 128,
+    "name": "குறிப்பறிவுறுத்தல்",
+    "translation": "The Reading of the Signs",
+    "transliteration": "Kuripparivuruththal"
+  },
+  {
+    "athigaram_no": 129,
+    "name": "புணர்ச்சிவிதும்பல்",
+    "translation": "Desire for Reunion",
+    "transliteration": "Punarchchividhumpal"
+  },
+  {
+    "athigaram_no": 130,
+    "name": "நெஞ்சொடுபுலத்தல்",
+    "translation": "Expostulation with Oneself",
+    "transliteration": "Nenjotupulaththal"
+  },
+  {
+    "athigaram_no": 131,
+    "name": "புலவி",
+    "translation": "Pouting",
+    "transliteration": "Pulavi"
+  },
+  {
+    "athigaram_no": 132,
+    "name": "புலவி நுணுக்கம்",
+    "translation": "Feigned Anger",
+    "transliteration": "Pulavi Nunukkam"
+  },
+  {
+    "athigaram_no": 133,
+    "name": "ஊடலுவகை",
+    "translation": "The Pleasures of Temporary Variance",
+    "transliteration": "Oodaluvakai"
+  }
+]

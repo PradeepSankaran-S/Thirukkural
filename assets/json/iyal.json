@@ -1,0 +1,80 @@
+[
+  {
+    "iyal_no": 1,
+    "name": "பாயிரவியல்",
+    "translation": "Prologue",
+    "transliteration": "Paayiraviyal"
+  },
+  {
+    "iyal_no": 2,
+    "name": "இல்லறவியல்",
+    "translation": "Domestic Virtue",
+    "transliteration": "Illaraviyal"
+  },
+  {
+    "iyal_no": 3,
+    "name": "துறவறவியல்",
+    "translation": "Ascetic Virtue",
+    "transliteration": "Thuravaraviyal"
+  },
+  {
+    "iyal_no": 4,
+    "name": "ஊழியல்",
+    "translation": "Fate",
+    "transliteration": "Oozhiyal"
+  },
+  {
+    "iyal_no": 5,
+    "name": "அரசியல்",
+    "translation": "Royalty",
+    "transliteration": "Arasiyal"
+  },
+  {
+    "iyal_no": 6,
+    "name": "அமைச்சியல்",
+    "translation": "Ministers of State",
+    "transliteration": "Amaichiyal"
+  },
+  {
+    "iyal_no": 7,
+    "name": "அரணியல்",
+    "translation": "The Essentials of a State",
+    "transliteration": "Araniyal"
+  },
+  {
+    "iyal_no": 8,
+    "name": "கூழியல்",
+    "translation": "Way of Making Wealth",
+    "transliteration": "Koozhiyal"
+  },
+  {
+    "iyal_no": 9,
+    "name": "படையில்",
+    "translation": "The Excellence of an Army",
+    "transliteration": "Padaiyil"
+  },
+  {
+    "iyal_no": 10,
+    "name": "நட்பியல்",
+    "translation": "Friendship",
+    "transliteration": "Natpiyal"
+  },
+  {
+    "iyal_no": 11,
+    "name": "குடியியல்",
+    "translation": "Miscellaneous",
+    "transliteration": "Kudiyiyal"
+  },
+  {
+    "iyal_no": 12,
+    "name": "களவியல்",
+    "translation": "The Pre-marital love",
+    "transliteration": "Kalaviyal"
+  },
+  {
+    "iyal_no": 13,
+    "name": "கற்பியல்",
+    "translation": "The Post-marital love",
+    "transliteration": "Karpiyal"
+  }
+]
